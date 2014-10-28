@@ -1,4 +1,4 @@
 Turing-Application
 ==================
 
-Application to Turning School
+Application to Turing School
